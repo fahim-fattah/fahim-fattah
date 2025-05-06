@@ -25,8 +25,8 @@ This GitHub is where I share my projects, experiments, and progress as I grow in
 
 ## 🛠 Tools & Technologies
 
-- **Languages:** Python  
-- **Frameworks/Libraries:** TensorFlow, Keras, NumPy, Matplotlib  
+- **Languages:** Python  , c
+- **Frameworks/Libraries:** TensorFlow, Keras, NumPy, Matplotlib  , scikit-learn
 - **Version Control:** Git & GitHub  
 
 ---
